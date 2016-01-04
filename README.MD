@@ -3,4 +3,4 @@
 ###Functionality:
 - kv storage
 - proxy
-- rift consensus algorithm implementation
+- raft consensus algorithm implementation
