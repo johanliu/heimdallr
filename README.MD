@@ -2,9 +2,10 @@
 
 ###Functionality:
 - kv storage with pub/sub
-- proxy
+- networking
 - raft consensus algorithm implementation
-- http api
+- proxy
+- http api & cli
 
 ###Flagship:
 - etcd
