@@ -11,3 +11,7 @@
 - etcd
 - zookeeper
 - consul
+
+###Reference:
+- Introduction to Reliable and Secure Distributed Programming
+- In Search of an Understandable Consensus Algorithm
