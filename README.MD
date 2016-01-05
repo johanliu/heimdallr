@@ -2,7 +2,7 @@
 
 ###Functionality:
 - kv storage with pub/sub
-- networking
+- networking layer
 - raft consensus algorithm implementation
 - proxy
 - http api & cli
